@@ -2,4 +2,6 @@ black
 fastapi
 flake8
 isort
+mypy
+pip-tools
 uvicorn[standard]
